@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "it-IT"
-title                    : "Stefano Genetti"
+locale                   :
+title                    : "Stefano Genetti update"
 title_separator          : "-"
-name                     : &name "Stefano Genetti"
-description              : &description "University of Trento Computer Science student"
+name                     : &name "Stefano Genetti update"
+description              : &description "University of Trento Computer Science student update"
 url                      : "https://stefanogenettiunitn.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://stefanogenettiunitn.github.io/" # the subpath of your site, e.g. "/blog"
 repository               : "StefanoGenettiUniTN/stefanogenettiunitn.github.io"
