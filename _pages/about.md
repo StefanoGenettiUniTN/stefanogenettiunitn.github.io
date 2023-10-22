@@ -11,7 +11,7 @@ redirect_from:
 Hello world!
 ======
 Welcome to my personal webage. My name is **Stefano Genetti**. I'm currently a student at the University of Trento, enrolled in the **Master's degree in Computer Science**.
-My journey into the world of computer science began at a young age when my father introduced me to a computer, igniting a lifelong passion for this captivating field. I find various areas of computer science intriguing, from data science and artificial intelligence to networking. My curiosity spans across diverse realms of computer science, encompassing topics from data science and artificial intelligence to distributed systems.
+My journey into the world of computer science began at a young age when my father introduced me to a computer, igniting a lifelong passion for this captivating field. My curiosity spans across diverse realms of computer science, encompassing topics from data science and artificial intelligence to distributed systems.<br>
 Presently, I invest most of my time in the following activities:
 
 **Hypergraph Summarization Research** I'm contributing to a research project under the supervision of Professor Alberto Montresor and PhD student Francesco Lotito. With our work, we are introducing the first algorithmic solution to the novel problem of Hypergraph Summarization. Our aim is to publish a scientific paper based on our findings.
@@ -29,7 +29,7 @@ Apart from my computer science interests, I pursue other hobbies. Recently, I jo
 
 Curriculum vitae
 ------
-[Version October the 22nd, 2023](files/Stefano_Genetti_Hypergraph_Summarization.pdf){:target="_blank"}
+[Version October the 22nd, 2023](files/Stefano_Genetti_CV.pdf){:target="_blank"}
 
 Contacts
 ------
