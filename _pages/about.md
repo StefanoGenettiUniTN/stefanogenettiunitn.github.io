@@ -29,7 +29,7 @@ Apart from my computer science interests, I pursue other hobbies. Recently, I jo
 
 Curriculum vitae
 ------
-[Version October the 22nd, 2023](files/Stefano_Genetti_Hypergraph_Summarization.pdf)
+[Version October the 22nd, 2023](files/Stefano_Genetti_Hypergraph_Summarization.pdf){:target="_blank"}
 
 Contacts
 ------
