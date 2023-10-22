@@ -24,7 +24,7 @@ Presently, I invest most of my time in the following activities:
 
 **University Courses** At the university, I'm currently enrolled in the *Bio-Inspired Artificial Intelligence* course, exploring evolutionary algorithms and swarm intelligence. Additionally, I'm delving into *Low-Power Wireless Networking for the Internet of Things*, which has introduced me to the exciting world of low-power wireless communication technologies. Furthermore, I'm enhancing my writing skills through the *Technical Writing* course, which also aligns with my preparation for the C1 certification.
 
-Beyond my academic commitments, I enjoy engaging in various projects. In the recent years, the university occupies most of my time, as a consequence, my main extracurricular activities revolve around providing technical support to individuals, such as hardware repairs and consultancy. Living in a small village, I'm often the go-to person for technical assistance. I also have a passion for developing software solutions, including websites and management software for small clients.
+Beyond my academic commitments, I enjoy engaging in various projects. In the recent years, the university occupies most of my time, as a consequence, my main extracurricular activities revolve around providing technical support to individuals, such as hardware repairs and consultancy. Living in a small village, I'm often the go-to person for technical assistance. I also have a passion for developing software solutions, including websites and management software for small clients.<br>
 Apart from my computer science interests, I pursue other hobbies. Recently, I joined an amateur volleyball team of wonderful people called *Diaspeck Volley Bolghera* where I play as a libero.
 
 Curriculum vitae
