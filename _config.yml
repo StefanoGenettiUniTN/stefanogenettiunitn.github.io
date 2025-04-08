@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Stefano Genetti"
   avatar           : "farra_face.jpeg"
-  bio              : "Student in Computer Science at the University of Trento"
+  bio              : "PhD student in Industrial Innovation"
   location         : "Trentino-Alto Adige, Italy"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "stefano.genetti@studenti.unitn.it"
+  email            : "stefano.genetti@unitn.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "stefano-genetti-866b6a253"
-  orcid            : 
+  orcid            : https://orcid.org/0009-0004-2417-0319
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
