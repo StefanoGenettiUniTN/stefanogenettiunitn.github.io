@@ -29,7 +29,7 @@ Beyond my academic commitments, I enjoy engaging in various projects. In the rec
 
 Curriculum vitae
 ------
-[Version April the 8th, 2025](files/Stefano_Genetti_CV_20250408.pdf){:target="_blank"}<br>
+[Version April the 14th, 2025](files/Stefano_Genetti_CV_20250414.pdf){:target="_blank"}<br>
 [Version June the 7th, 2024](files/Stefano_Genetti_CV_20240607.pdf){:target="_blank"}<br>
 [Version October the 22nd, 2023](files/Stefano_Genetti_CV.pdf){:target="_blank"}
 
